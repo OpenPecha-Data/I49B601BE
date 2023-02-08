@@ -1,0 +1,43 @@
+id: 941d906696f44739999b72e375235a7a
+annotation_type: index
+revision: '00001'
+annotations:
+  af459e0d8b434bcd947e5eb90f3c1014:
+    base: 5098.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 76
+    - title: I. The Occasion
+      span:
+        start: 77
+        end: 546
+    - title: II. Introduction
+      span:
+        start: 547
+        end: 4994
+    - title: III. 37 Questions
+      span:
+        start: 4995
+        end: 5529
+    - title: IV. 37 Answers
+      span:
+        start: 5530
+        end: 23197
+    - title: V. Miracle
+      span:
+        start: 23198
+        end: 25598
+    - title: VI. Dialogues
+      span:
+        start: 25599
+        end: 50276
+    - title: VII. Transmission
+      span:
+        start: 50277
+        end: 54039
+    - title: Colophon
+      span:
+        start: 54040
+        end: 54065

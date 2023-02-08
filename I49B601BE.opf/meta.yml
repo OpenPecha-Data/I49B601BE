@@ -1,0 +1,16 @@
+id: I49B601BE
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:05:19.186635
+last_modified: 2023-02-08 15:05:19.186789
+source_metadata:
+  title: Gaganagañjaparipṛcchā
+  language: zh
+bases:
+  '5098':
+    base_file: 5098.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
